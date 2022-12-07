@@ -26,7 +26,7 @@ def ip_resolver(ipaddr,sport,eport):
     scan_start_time = time.strftime("%H:%M:%S", t)
     converted_ip = domain_converter(ipaddr)
     print(f"\nStarting scan at : {scan_start_time}")
-    print(f"---------------Scanning for IP {ipaddr} ---------------\n")
+    print(f"---------------Scanning for {ipaddr} ---------------\n")
     for port in range(sport, eport+1):
         port_scanner(converted_ip,port)
 
