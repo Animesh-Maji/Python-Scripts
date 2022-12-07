@@ -37,9 +37,11 @@ If used for any illegal purposes the publisher is not responsible for it.
 ## Snapshot
 
 **Use case :**
+
 ![App Screenshot](https://github.com/Animesh-Maji/python-scripts/blob/master/KeyLogger/img/usage.png?raw=true)
 
 **Need to modify these variables according to the user :**
+
 ![App Screenshot](https://github.com/Animesh-Maji/python-scripts/blob/master/KeyLogger/img/modify.png?raw=true)
 
 
