@@ -12,6 +12,8 @@ This program also records the clipboard data into a file named "clipboard_data.t
 
 All the files are automatically sent to the given e-mail address after the program is terminated.
 
+If 'esc' key is pressed the program will terminate, again that can be customized.
+
 ## Disclaimer 
 
 This program is only for educational purposes and not meant for any offensive use cases.
